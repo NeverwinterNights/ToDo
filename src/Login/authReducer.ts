@@ -35,7 +35,6 @@ export const {setIsLoggedInAC} = slice.actions
 //     }
 // }
 
-
 // actions
 // export const setIsLoggedInAC = (value: boolean) =>
 //     ({type: 'login/SET-IS-LOGGED-IN', value} as const)
