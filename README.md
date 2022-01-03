@@ -1,3 +1,10 @@
+
+Educational project TodoList on React + TypeScript
+
+Link https://neverwinternights.github.io/ToDo/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
