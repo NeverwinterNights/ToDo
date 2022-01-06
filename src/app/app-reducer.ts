@@ -80,9 +80,7 @@ export const initializeAppTC = () => (dispatch: Dispatch) => {
     authAPI.me().then(res => {
 
         if (res.data.resultCode === 0) {
-
             dispatch(setIsLoggedInAC({value: true}));
-
         }
     })
         .finally(() => {
